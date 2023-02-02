@@ -1,5 +1,5 @@
 # HelloWorld16
-"Hello World" em 15 linguagens de programação e 1 em binário
+"Hello World" em 16 linguagens de programação e 1 em binário
 
 
 
